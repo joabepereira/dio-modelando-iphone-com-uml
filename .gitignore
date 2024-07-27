@@ -1,0 +1,6 @@
+# Ignorando arquivos
+
+*.settings
+bin
+.classpath
+.project
